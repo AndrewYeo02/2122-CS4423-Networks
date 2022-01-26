@@ -1,0 +1,40 @@
+01   ST  NP  MrR   
+02   BB  GoT  DG  ST  TW  NP  MrR  SG   
+03   BB  GoT  DG  ST  MrR  SG   
+04   GoT  DG  SG   
+05   GoT  DG  NP  SG  BB  ST  PB   
+06   DG  NP  ST  BB  PB  SG   
+07   Succ  GoT  DG  ST  TW  NP  SG   
+08   MrR   
+09   GoT  DG  ST   
+10   GoT  ST  PB  SG   
+11   DG   
+12   BB  DG  ST   
+13   GoT  DG  PB  NP  SG   
+14   BB  GoT  DG  ST  TW  PB  NP  MrR  SG   
+15   BB  GoT  DG  ST  TW  PB  NP  SG   
+16   BB  ST  SG  DG   
+17   SG   
+18   BB  DG  TW  SG   
+19   DG  ST   
+20   DG  NP   
+21   BB  GoT  ST  PB  NP  SG   
+22   BB  GoT  TW  PB  MrR   
+23   BB  MrR   
+24   BB  MrR  NP  ST  DG   
+25   GoT  BB  DG  ST  NP  SG   
+26   BB  GoT  DG  ST  TW  PB  NP  SG   
+27   TW  PB  SG  ST   
+28   DG  ST  TW  MrR   
+29   BB  GoT  DG  ST  TW  SG   
+30   GoT  BB  DG  ST  TW  PB  MrR  SG   
+31   BB  GoT  DG  ST  TW  SG  PB   
+32  
+33   BB  GoT  DG  ST  TW  PB  SG   
+34   BB  GoT  DG  TW  PB  SG   
+35  
+36   BB  GoT  ST  PB  SG   
+37   TW  BB  GoT  PB  SG   
+38   BB  GoT  DG  TW  PB  SG   
+39   DG  ST  PB  NP   
+40   DG  PB  NP  SG
