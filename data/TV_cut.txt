@@ -1,0 +1,11 @@
+1   ST  NP  MrR   
+2   BB  GoT  DG  ST  TW  NP  MrR  SG   
+3   BB  GoT  DG  ST  MrR  SG   
+4   GoT  DG  SG   
+5   GoT  DG  NP  SG  BB  ST  PB   
+6   DG  NP  ST  BB  PB  SG   
+7   Succ  GoT  DG  ST  TW  NP  SG   
+8   MrR   
+
+
+
